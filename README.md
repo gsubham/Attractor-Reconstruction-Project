@@ -28,7 +28,7 @@ Scholarpedia link of the algorithm :[http://www.scholarpedia.org/article/Grassbe
 To increase the computation speed, I reffered the following paper:<br />
 [http://home.iitk.ac.in/~gsubham/Attractor_Reconstruction_Project/1990_Grassberger_PLA.pdf](http://home.iitk.ac.in/~gsubham/Attractor_Reconstruction_Project/1990_Grassberger_PLA.pdf)<br />  
 2. Lyapunov Exponents: I implemented an algorithm to find all the lyapunov exponents from the differential equations of Lorenz system.<br />
-Algorithm used: I used the algorithm given in the book "An exploration of dynamical systems and chaos by John Argyris and Maria Hasse" under the heading "Numerical Calculations of Lyapunov Exponents".<br /><br />
+Algorithm used: I used the algorithm given in the book **"An exploration of dynamical systems and chaos by John Argyris and Maria Hasse"** under the heading **"Numerical Calculations of Lyapunov Exponents"**.<br /><br />
 3.False-Nearest neighbors: I used FNN to find the embedding dimension.<br />
 Link of the paper:<br />
 [http://home.iitk.ac.in/~gsubham/Attractor_Reconstruction_Project/PhysRevA.45.3403.pdf](http://home.iitk.ac.in/~gsubham/Attractor_Reconstruction_Project/PhysRevA.45.3403.pdf)<br />
