@@ -28,11 +28,13 @@ Scholarpedia link of the algorithm :[http://www.scholarpedia.org/article/Grassbe
 To increase the computation speed, I reffered the following paper:<br />
 [http://home.iitk.ac.in/~gsubham/Attractor_Reconstruction_Project/1990_Grassberger_PLA.pdf](http://home.iitk.ac.in/~gsubham/Attractor_Reconstruction_Project/1990_Grassberger_PLA.pdf)<br />  
 2. Lyapunov Exponents: I implemented an algorithm to find all the lyapunov exponents from the differential equations of Lorenz system.<br />
-Algorithm used: I used the algorithm given in the book "An exploration of dynamical systems and chaos by John Argyris and Maria Hasse" under the heading "Numerical Calculations of Lyapunov Exponents".<br />
+Algorithm used: I used the algorithm given in the book "An exploration of dynamical systems and chaos by John Argyris and Maria Hasse" under the heading "Numerical Calculations of Lyapunov Exponents".<br /><br />
 3.False-Nearest neighbors: I used FNN to find the embedding dimension.<br />
-Link of the paper:[http://home.iitk.ac.in/~gsubham/Attractor_Reconstruction_Project/PhysRevA.45.3403.pdf](http://home.iitk.ac.in/~gsubham/Attractor_Reconstruction_Project/PhysRevA.45.3403.pdf)<br />
+Link of the paper:<br />
+[http://home.iitk.ac.in/~gsubham/Attractor_Reconstruction_Project/PhysRevA.45.3403.pdf](http://home.iitk.ac.in/~gsubham/Attractor_Reconstruction_Project/PhysRevA.45.3403.pdf)<br />
 To improve time complexity, I also implemented Kd-Trees)<br />
-kd-Trees theory and implementation:[http://home.iitk.ac.in/~gsubham/Attractor_Reconstruction_Project/assignment-3-kdtree.pdf](http://home.iitk.ac.in/~gsubham/Attractor_Reconstruction_Project/assignment-3-kdtree.pdf)<br />
+kd-Trees theory and implementation:<br />
+[http://home.iitk.ac.in/~gsubham/Attractor_Reconstruction_Project/assignment-3-kdtree.pdf](http://home.iitk.ac.in/~gsubham/Attractor_Reconstruction_Project/assignment-3-kdtree.pdf)<br />
 
 Currently, I am working on phase space reconstruction of non-invertible maps(Unsolved Problem).
 
