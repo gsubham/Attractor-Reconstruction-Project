@@ -5,5 +5,5 @@ This is my project on attractor reconstruction under assistant professor Sagar C
 #### DYNAMICAL SYSTEMS AND CHAOS:
 Firstly, I watched videos of online introductory course on dynamical system and chaos taught by Dr. Steven Strogatz of cornell university.
 The link to the course:
-[ggff](http://www.infocobuild.com/education/audio-video-courses/mechanical-engineering/mae5790-spring2014-cornell.html)
+- [](http://www.infocobuild.com/education/audio-video-courses/mechanical-engineering/mae5790-spring2014-cornell.html)
 
