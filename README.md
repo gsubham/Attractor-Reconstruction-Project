@@ -11,8 +11,8 @@ The link to the course:<br />
 After completing the course, I started exploring attractor reconstruction field through research papers and books.<br />
 I reffered following papers:<br />
 - [http://home.iitk.ac.in/~gsubham/Attractor_Reconstruction_Project/Chakraborty_manuscript.pdf](http://home.iitk.ac.in/~gsubham/Attractor_Reconstruction_Project/Chakraborty_manuscript.pdf)
-- [http://home.iitk.ac.in/~gsubham/Attractor_Reconstruction_Project/2012_Cecconi_etal_AJP.pdf](http://home.iitk.ac.in/~gsubham/Attractor_Reconstruction_Project/2012_Cecconi_etal_AJP.pdf)
-- [http://home.iitk.ac.in/~gsubham/Attractor_Reconstruction_Project/embedelogy.pdf](http://home.iitk.ac.in/~gsubham/Attractor_Reconstruction_Project/embedelogy.pdf)<br />
+- [http://home.iitk.ac.in/~gsubham/Attractor_Reconstruction_Project/1%252E4746070.pdf](http://home.iitk.ac.in/~gsubham/Attractor_Reconstruction_Project/1%252E4746070.pdf)
+- [http://home.iitk.ac.in/~gsubham/Attractor_Reconstruction_Project/art%253A10.1007%252FBF01053745.pdf](http://home.iitk.ac.in/~gsubham/Attractor_Reconstruction_Project/art%253A10.1007%252FBF01053745.pdf)<br />
 Third paper in the above list involved a lot of advanced maths that was beyond my reach. This paper was helpful as I got introduced to some powerful theorems in dynamical systems.<br /> 
 
 I reffered following books:<br />
@@ -26,7 +26,7 @@ I implemented all the algorithms for the time series of lorenz system and coding
 1. Grassberger Procaccia algorithm: I used this algorithm to find correlation dimension of lorenz attractor from time series.<br />
 Scholarpedia link of the algorithm :[http://www.scholarpedia.org/article/Grassberger-Procaccia_algorithm](http://www.scholarpedia.org/article/Grassberger-Procaccia_algorithm)<br />
 To increase the computation speed, I reffered the following paper:<br />
-[http://home.iitk.ac.in/~gsubham/Attractor_Reconstruction_Project/1990_Grassberger_PLA.pdf](http://home.iitk.ac.in/~gsubham/Attractor_Reconstruction_Project/1990_Grassberger_PLA.pdf)<br />  
+[http://home.iitk.ac.in/~gsubham/Attractor_Reconstruction_Project/1-s2.0-037596019090577B-main.pdf](http://home.iitk.ac.in/~gsubham/Attractor_Reconstruction_Project/1-s2.0-037596019090577B-main.pdf)<br />  
 2. Lyapunov Exponents: I implemented an algorithm to find all the lyapunov exponents from the differential equations of Lorenz system.<br />
 Algorithm used: I used the algorithm given in the book **"An exploration of dynamical systems and chaos by John Argyris and Maria Hasse"** under the heading **"Numerical Calculations of Lyapunov Exponents"**.<br /><br />
 3.False-Nearest neighbors: I used FNN to find the embedding dimension.<br />
