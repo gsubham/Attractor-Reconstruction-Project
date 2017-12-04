@@ -36,7 +36,5 @@ To improve time complexity, I also implemented Kd-Trees)<br />
 kd-Trees theory and implementation:<br />
 [http://home.iitk.ac.in/~gsubham/Attractor_Reconstruction_Project/assignment-3-kdtree.pdf](http://home.iitk.ac.in/~gsubham/Attractor_Reconstruction_Project/assignment-3-kdtree.pdf)<br />
 
-Currently, I am working on phase space reconstruction of non-invertible maps(Unsolved Problem).
-
 
 
