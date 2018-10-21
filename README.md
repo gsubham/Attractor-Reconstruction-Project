@@ -10,9 +10,9 @@ The link to the course:<br />
 #### Attractor Reconstruction:
 After completing the course, I started exploring attractor reconstruction field through research papers and books.<br />
 I reffered following papers:<br />
-- [https://drive.google.com/open?id=1C4Yup8NSlQg8SuizavjMRp-W5__X0GVs](Chakraborty_manuscript)
-- [https://drive.google.com/open?id=1rubummHqziZCrNupAHKgT7LG9IIfpkfy](Book)
-- [https://drive.google.com/open?id=1huP_Vur24XMdBVkPNf63hHDVzo7K06QU](Paper)<br />
+- [Chakraborty Manuscript](https://drive.google.com/open?id=1C4Yup8NSlQg8SuizavjMRp-W5__X0GVs)
+- [Book](https://drive.google.com/open?id=1rubummHqziZCrNupAHKgT7LG9IIfpkfy)
+- [Paper](https://drive.google.com/open?id=1huP_Vur24XMdBVkPNf63hHDVzo7K06QU)<br />
 Third paper in the above list involved a lot of advanced maths that was beyond my reach. This paper was helpful as I got introduced to some powerful theorems in dynamical systems.<br /> 
 
 I reffered following books:<br />
@@ -30,10 +30,10 @@ Scholarpedia link of the algorithm :[http://www.scholarpedia.org/article/Grassbe
 Algorithm used: I used the algorithm given in the book **"An exploration of dynamical systems and chaos by John Argyris and Maria Hasse"** under the heading **"Numerical Calculations of Lyapunov Exponents"**.<br /><br />
 3.False-Nearest neighbors: I used FNN to find the embedding dimension.<br />
 Link of the paper:<br />
-[http://home.iitk.ac.in/~gsubham/Attractor_Reconstruction_Project/PhysRevA.45.3403.pdf](http://home.iitk.ac.in/~gsubham/Attractor_Reconstruction_Project/PhysRevA.45.3403.pdf)<br />
+[https://drive.google.com/open?id=1q139DEhQJiqqTZjwDVxcX3I1N3wfGWIW](https://drive.google.com/open?id=1q139DEhQJiqqTZjwDVxcX3I1N3wfGWIW)<br />
 To improve time complexity, I also implemented Kd-Trees)<br />
 kd-Trees theory and implementation:<br />
-[http://home.iitk.ac.in/~gsubham/Attractor_Reconstruction_Project/assignment-3-kdtree.pdf](http://home.iitk.ac.in/~gsubham/Attractor_Reconstruction_Project/assignment-3-kdtree.pdf)<br />
+[Kd-trees](https://drive.google.com/open?id=1swoFBs9I-Jpm6BHvV4Wn1T2QWGEqGB49)<br />
 
 
 
